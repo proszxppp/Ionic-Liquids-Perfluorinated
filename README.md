@@ -1,4 +1,4 @@
-# Ionic-Liquids
+# Ionic-Liquids-Perfluorinated
 
 The current repository contains the full RESP charge files of cations and anions forming ILs considered in the recent ILs paper on perfluorinated anionic species. 
 
